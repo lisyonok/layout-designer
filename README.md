@@ -1,2 +1,16 @@
-# layout-designer
-Repository for interviews in the company Krit - layout part
+# Front-end trainee' sandbox
+
+Стандарты компании для frontend-проектов.
+
+## Разделы стандартов
+
+1. [Инициализация](./Initiation.md)
+2. [HTML](./HTML/Readme.md)
+3. [CSS](./CSS/Readme.md)
+4. [JS](./JS/Readme.md)
+5. [React](./React/Readme.md)
+6. [Рекомендации](./Tips/Readme.md)
+
+## Contributing
+
+Если вы хотите внести свой вклад в развитие наших стандартов, пожалуйста следуйте практике issue first. Перед тем, как создать pull request, заведите issue, подробно опишите, в чем проблема, и как ваша идея позволяет решить ее. Пропускать этап создания issue и сразу создавать pull request можно только в случаях, когда проблема и решение очевидны (например, опечатка или орфографическая ошибка).
